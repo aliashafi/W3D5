@@ -56,4 +56,10 @@ class PolyTreeNode
     nil
 
   end
+
+  # def inspect
+
+  #   { 'value' => self.value, 'parent_value' => self.parent.value }
+  # end
+
 end
